@@ -60,5 +60,6 @@
   <ItemGroup>
     <Build Include="Book.sql" />
     <Build Include="Bookv1.sql" />
+    <Build Include="Employee.sql" />
   </ItemGroup>
 </Project>
