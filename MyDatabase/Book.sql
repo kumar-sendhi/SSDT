@@ -5,5 +5,5 @@
     [Author] NVARCHAR(50) NULL, 
     [Publication] NVARCHAR(70) NULL, 
     [Cost] DECIMAL NULL, 
-	[Address] NVARCHAR(50) NULL
+	
 )
